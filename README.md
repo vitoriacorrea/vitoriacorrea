@@ -1,16 +1,13 @@
-## Hi there 👋
+   ##   Olá, eu sou a Vitória!
 
-<!--
-**vitoriacorrea/vitoriacorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina
+- 📫 email: vitoria.c1@aluno.ifsc.edu.br
+- 😄 Pronomes: ela/dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+  
+
+
