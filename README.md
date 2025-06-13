@@ -39,9 +39,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vitoriacorrea/vitoriacorrea/output/snake.svg" alt="Snake animation" />
+# ![snake gif](https://github.com/vitoriacorrea/vitoriacorrea/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
