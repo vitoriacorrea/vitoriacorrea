@@ -43,7 +43,8 @@
 
 ###
 
-[![Capa da música](https://i.scdn.co/image/ab67616d0000b273682bf8731631f77bb67258f8)](https://open.spotify.com/track/21AUdfi6fLFDp9JuNcHsfS)
+[![Hello, World - Louie Zong](https://i.scdn.co/image/ab67616d0000b273ca2297c8b7a3c9907cc6a1f9)](https://open.spotify.com/track/21AUdfi6fLFDp9JuNcHsfS)
+
 
 
 ###
