@@ -1,6 +1,12 @@
-<h1 align="left">Olá, meu nome é Vitória Corrêa!</h1>
+<a href="https://github.com/vitoriacorrea">
+  <!-- <img alt="cabecalho" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF079F&height=120&section=header"/> -->
+
+  <img alt="boas vindas - typing svg" width=100% src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=25&pause=435&color=FF079F&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Vitória!;Seja+bem+vindo+:%29"/>
+</a>
 
 ###
+
+![Linear Gradient](./assets/lineBar.png)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitoriacorrea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  
@@ -30,13 +36,14 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+###
+![Linear Gradient](./assets/lineBar.png)
 ###
 
 # ![snake gif](https://github.com/vitoriacorrea/vitoriacorrea/blob/output/github-contribution-grid-snake.gif)
